@@ -1,0 +1,6 @@
+Big-O notation — how work grows as input grows (steps, not seconds!)
+O(1) constant (one trip, ignores size) vs O(n) linear (one trip per item)
+Your "trips to the room / warehouse shelf" mental model — genuinely how pros think
+The killer interview insight: list search = O(n) slow, dict lookup = O(1) instant
+Recognized Big-O in real code — the exact reasoning interviewers ask for
+Learned "worst case is the default" for Big-O
